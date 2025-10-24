@@ -1,3 +1,8 @@
+# lynis-dash
+Dépendance Node.js 22.12+ ou 20.17
+Lancer npm install dans le répertoire du projet
+Puis npm run dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
